@@ -1,6 +1,8 @@
 # Analysis-of-the-Execution-Time-Variation-of-OpenMP-based-Applications
 Analysis of the Variation in Execution Time of OpenMP-based Applications using different number of threads
 
+[OpenMP Tutorial](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
+
 ## Steps to Run <br/>
 ` g++ -fopenmp filename.cpp`
 
@@ -20,5 +22,5 @@ Analysis of the Variation in Execution Time of OpenMP-based Applications using d
 ### 5. Application to sort 2000 random numbers using OddEvenSort (Modified BubbleSort)
 ![OddEvenSort](/Results/OddEvenSort.PNG)
 
-[OpenMP Tutorial](https://www.youtube.com/playlist?list=PLLX-Q6B8xqZ8n8bwjGdzBJ25X2utwnoEG)
+
 
